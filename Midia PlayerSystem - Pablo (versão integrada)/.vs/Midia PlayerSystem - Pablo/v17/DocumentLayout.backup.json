@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|c:\\users\\pablo\\source\\repos\\midia playersystem - pablo\\midia playersystem - pablo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|solutionrelative:midia playersystem - pablo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Migrations\\20250901235959_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Midia PlayerSystem - Pablo\\Migrations\\20250901235959_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|c:\\users\\pablo\\source\\repos\\midia playersystem - pablo\\midia playersystem - pablo\\models\\userloggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|solutionrelative:midia playersystem - pablo\\models\\userloggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|c:\\users\\pablo\\source\\repos\\midia playersystem - pablo\\midia playersystem - pablo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|solutionrelative:midia playersystem - pablo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|c:\\users\\pablo\\source\\repos\\midia playersystem - pablo\\midia playersystem - pablo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|solutionrelative:midia playersystem - pablo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|c:\\users\\pablo\\source\\repos\\midia playersystem - pablo\\midia playersystem - pablo\\contextdb\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|solutionrelative:midia playersystem - pablo\\contextdb\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|c:\\users\\pablo\\source\\repos\\midia playersystem - pablo\\midia playersystem - pablo\\models\\midia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|solutionrelative:midia playersystem - pablo\\models\\midia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|c:\\users\\pablo\\source\\repos\\midia playersystem - pablo\\midia playersystem - pablo\\controllers\\playlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|solutionrelative:midia playersystem - pablo\\controllers\\playlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|c:\\users\\pablo\\source\\repos\\midia playersystem - pablo\\midia playersystem - pablo\\controllers\\midiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|solutionrelative:midia playersystem - pablo\\controllers\\midiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|c:\\users\\pablo\\source\\repos\\midia playersystem - pablo\\midia playersystem - pablo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|solutionrelative:midia playersystem - pablo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|c:\\users\\pablo\\source\\repos\\midia playersystem - pablo\\midia playersystem - pablo\\data\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|solutionrelative:midia playersystem - pablo\\data\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|c:\\users\\pablo\\source\\repos\\midia playersystem - pablo\\midia playersystem - pablo\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7812DE64-C5CF-47E4-B143-1DC085159F7C}|Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo.csproj|solutionrelative:midia playersystem - pablo\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250901235959_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Migrations\\20250901235959_inicial.cs",
+              "RelativeDocumentMoniker": "Midia PlayerSystem - Pablo\\Migrations\\20250901235959_inicial.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Migrations\\20250901235959_inicial.cs",
+              "RelativeToolTip": "Midia PlayerSystem - Pablo\\Migrations\\20250901235959_inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T23:59:59.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\appsettings.json",
+              "RelativeDocumentMoniker": "Midia PlayerSystem - Pablo\\appsettings.json",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\appsettings.json",
+              "RelativeToolTip": "Midia PlayerSystem - Pablo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T23:43:06.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Contextdb\\DBContext.cs",
+              "RelativeDocumentMoniker": "Midia PlayerSystem - Pablo\\Contextdb\\DBContext.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Contextdb\\DBContext.cs",
+              "RelativeToolTip": "Midia PlayerSystem - Pablo\\Contextdb\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T23:32:19.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Data\\DataStore.cs",
+              "RelativeDocumentMoniker": "Midia PlayerSystem - Pablo\\Data\\DataStore.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Data\\DataStore.cs",
+              "RelativeToolTip": "Midia PlayerSystem - Pablo\\Data\\DataStore.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:45:04.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Midia PlayerSystem - Pablo\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Midia PlayerSystem - Pablo\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:29:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaylistsController.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Controllers\\PlaylistsController.cs",
+              "RelativeDocumentMoniker": "Midia PlayerSystem - Pablo\\Controllers\\PlaylistsController.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Controllers\\PlaylistsController.cs",
+              "RelativeToolTip": "Midia PlayerSystem - Pablo\\Controllers\\PlaylistsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:22:40.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MidiaController.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Controllers\\MidiaController.cs",
+              "RelativeDocumentMoniker": "Midia PlayerSystem - Pablo\\Controllers\\MidiaController.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Controllers\\MidiaController.cs",
+              "RelativeToolTip": "Midia PlayerSystem - Pablo\\Controllers\\MidiaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:21:16.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Program.cs",
+              "RelativeDocumentMoniker": "Midia PlayerSystem - Pablo\\Program.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Program.cs",
+              "RelativeToolTip": "Midia PlayerSystem - Pablo\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:26:27.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLoggin.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Models\\UserLoggin.cs",
+              "RelativeDocumentMoniker": "Midia PlayerSystem - Pablo\\Models\\UserLoggin.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Models\\UserLoggin.cs",
+              "RelativeToolTip": "Midia PlayerSystem - Pablo\\Models\\UserLoggin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:25:56.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Midia PlayerSystem - Pablo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Models\\User.cs",
+              "RelativeToolTip": "Midia PlayerSystem - Pablo\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:25:03.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Models\\Playlist.cs",
+              "RelativeDocumentMoniker": "Midia PlayerSystem - Pablo\\Models\\Playlist.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Models\\Playlist.cs",
+              "RelativeToolTip": "Midia PlayerSystem - Pablo\\Models\\Playlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:24:15.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Midia.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Models\\Midia.cs",
+              "RelativeDocumentMoniker": "Midia PlayerSystem - Pablo\\Models\\Midia.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\Midia PlayerSystem - Pablo\\Midia PlayerSystem - Pablo\\Models\\Midia.cs",
+              "RelativeToolTip": "Midia PlayerSystem - Pablo\\Models\\Midia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:28:10.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
