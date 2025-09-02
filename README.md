@@ -38,13 +38,19 @@ CORS para integração com o frontend
 
 Frontend (Painel de Administração e Player):
 video que vi de para ter uma base:
+<br></br>
 https://www.youtube.com/watch?v=tVBZq2fq-WA&t=41s
+<br></br>
 https://www.youtube.com/watch?app=desktop&v=oITDcIjJBlY
+<br></br>
 https://pt.stackoverflow.com/questions/105263/npm-do-nodejs-n%C3%A3o-funciona
+<br></br>
 https://www.youtube.com/watch?v=nXLTocqLy-Q
+<br></br>
 https://www.youtube.com/watch?v=SyStahO5xEU&t=3s
+<br></br>
 https://www.youtube.com/watch?v=dFIfZBEyZ90
-
+<br></br>
 React (com TypeScript)
 
 Ant Design: Framework de componentes para o Painel de Administração.
@@ -208,10 +214,15 @@ Migraria o backend para usar um banco de dados real (como PostgreSQL, SQL Server
 WebSockets para Atualização em Tempo Real: Substituiria o polling no Player por WebSockets. Isso proporcionaria uma atualização de playlist instantânea e mais eficiente, sem a necessidade de requisições constantes.
 
 > pesquisei sobre sites que tem websocket e gostei do metodo. é muito util para jogos! sites como Stumble guy, drawing usam websocket. Que é um ajax por evento.
+<br></br>
 https://ben.akrin.com/html-canvas-smooth-drawing-websocket-live-collaboration/
+<br></br>
 https://www.stumbleguys.com/pt-BR/play
+<br></br>
 https://www.youtube.com/watch?v=SyStahO5xEU&t=3s
+<br></br>
 https://socket.io/docs/v4/tutorial/introduction
 
 
 Otimizações de Performance: Implementaria otimizações como lazy loading, virtualização de listas longas e compressão de imagens/vídeos.
+
