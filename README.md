@@ -182,9 +182,9 @@ Acesse http://localhost:3000 (ou a porta padrão) no seu navegador. O player com
 * tive muita dificuldade com front ao usar o REACT pois tive uns contra tempo na intalação de algumas dependencias que não instalavam. 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./AspProj.png">
-  <source media="(prefers-color-scheme: light)" srcset="./AspProj.png">
-  <img align="left" alt="description" src="./AspProj.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/Imagens/vpr.png">
+  <source media="(prefers-color-scheme: light)" srcset="./Imagens/vpr.png">
+  <img align="left" alt="description" src="./Imagens/vpr.png">
 </picture>  
 
 
@@ -225,4 +225,5 @@ https://socket.io/docs/v4/tutorial/introduction
 
 
 Otimizações de Performance: Implementaria otimizações como lazy loading, virtualização de listas longas e compressão de imagens/vídeos.
+
 
